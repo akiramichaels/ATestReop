@@ -1,3 +1,5 @@
+This is Comment 1
+
 # Git Demo Project By Adam
 ## First Repo!!!
 
